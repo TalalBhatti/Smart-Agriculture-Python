@@ -6,4 +6,5 @@ Sensors which were used are:
 ~12V Motors as an actuators for supplying water to the field
 ~Servo's to open and close the shade
 ~ThingSpeak Api's for the data monitoring
+This project is scalable and will help you in many aspects as if the rain happens and the moisture is already enough for the soil so the shades would automatically cover the field
 
